@@ -137,9 +137,24 @@ footer {
 
   main {
     font-size: 1rem;
+    width: 34rem;
   }
 
   main h1 {
     font-size: 2rem;
+  }
+}
+
+@media (max-width: 40rem) {
+  header nav {
+    display: none;
+  }
+
+  main {
+    font-size: 1rem;
+    width: 30rem;
+  }
+  main h1 {
+    font-size: 1.5rem;
   }
 }
