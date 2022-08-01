@@ -10,8 +10,9 @@ header {
   justify-content: space-between;
 }
 
-header img:hover {
+img:hover {
   opacity: 50%;
+  transform: scale(1.2);
 }
 
 #menu-btn {
@@ -45,6 +46,7 @@ aside nav a {
   font-family: "Quicksand", sans-serif;
   font-size: 2.5rem;
   color: white;
+  transition: background-color 0.2s ease-out 0.1s;
 }
 
 aside nav a:hover {
@@ -53,6 +55,7 @@ aside nav a:hover {
   border-radius: 3px;
   padding: 0;
   margin: 0;
+  transform: scale(1.1);
 }
 
 /* header #menu-btn {
