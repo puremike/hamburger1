@@ -10,4 +10,4 @@ Fourthly, I proceed to creating my main section and included all the paragraphs 
 
 Lastly, I created the footer section which contain &copy: Michael Egbinola
 
-Completed the project with HTML and CSS
+I have successfully completed the project with HTML and CSS
